@@ -5,5 +5,5 @@
 layout: home
 title: My Great Homepage
 icon: fa-home
-order: 2
+order: 1
 ---
